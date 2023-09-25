@@ -1,0 +1,1 @@
+#Recriando a Playstation Store utilizando o Angular.
