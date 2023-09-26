@@ -7,12 +7,14 @@ import { HomeComponent } from './pages/home/home.component';
 import { CardComponent } from './components/card/card.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { CardModule } from './components/card/card.module';
+import { MenuBarItemComponent } from './components/menu-bar/menu-bar-item/menu-bar-item.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     MenuBarComponent,
+    MenuBarItemComponent,
   ],
   imports: [
     BrowserModule,
